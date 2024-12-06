@@ -38,12 +38,12 @@ const navigationList = [
   {
     slug: 'messages',
     name: 'messages',
-    selected: false
+    selected: true
   },
   {
     slug: 'today',
     name: 'today\'s task',
-    selected: true
+    selected: false
   }, 
   {
     slug: 'activity',
